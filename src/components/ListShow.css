@@ -1,0 +1,16 @@
+.data-box {
+  margin-top: 5px;
+  padding: 8px;
+  display: inline-block;
+}
+.data-item {
+  font-size: 12px;
+  border-radius: 8px;
+  padding: 10px 18px;
+  background-color: #f7f7f7;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.balance-container {
+  margin-bottom: 10px;
+}

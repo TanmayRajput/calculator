@@ -1,0 +1,25 @@
+.details-top {
+  width: 100;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.top-text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 10px;
+  font-weight: bold;
+}
+.top-number {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fed700;
+}
+.description {
+  color: #bdb7b7;
+}
+.description li {
+  margin: 10px;
+}
