@@ -9,10 +9,10 @@ const Card = (props) => {
     <div className={classes}>
       <div className="header">
         <h1 className="main-heading">ROI Calculator</h1>
-        <img src="assets/cancel-btn.png"></img>
+        <img src="assets/cancel-btn.png" alt="images"></img>
       </div>
       <div className="container">
-        <img src="assets/cakeLogo.jpg" className="logo-img"></img>
+        <img src="assets/cakeLogo.jpg" alt="images" className="logo-img"></img>
         <h4 className="logo-name">Cake</h4>
         <div className="btn-slider">
           <label class="switch">
